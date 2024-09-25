@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Database2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Student fee/Database/mysql-connector-java-8.0.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Student fee/Database/mysql-connector-j-8.0.32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Student fee/Database/jar_files.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
